@@ -12,7 +12,6 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!\n This is my first Android Project
-        \n\n\n\n Thank you for attentions"
+        android:text="Hello World!\n This is my first Android Project"
         android:layout_centerHorizontal="true" />
 </RelativeLayout>
